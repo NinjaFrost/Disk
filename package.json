@@ -1,0 +1,29 @@
+{
+    "author": "bluedog24@ymail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "disk",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Disk",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3520cf19-29fa-4707-804e-c7b126c02baa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
